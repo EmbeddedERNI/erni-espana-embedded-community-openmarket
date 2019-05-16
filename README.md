@@ -3,4 +3,4 @@ A list of gadgets that the community members have and wish to share, exchange or
 
 |description|who|wants|comments|
 |---|---|---|---|
-|5 x 220Ω resistors|Aron Galdon|5 x 1kΩ resistors|barter|
+
